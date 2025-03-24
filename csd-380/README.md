@@ -1,2 +1,5 @@
-# csd-380
-Assignments for csd-380
+# CSD 380 DevOps
+## Contributors
+• Professor John Woods 
+
+• Ian Lewis
